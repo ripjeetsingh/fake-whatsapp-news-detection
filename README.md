@@ -8,3 +8,7 @@ who click on the story). In recent years, fake news stories have proliferated vi
 they are so easily and quickly shared online.
 Fake news is an invention – a lie created out of nothing – that takes the appearance of real news with the aim
 of deceiving people. This is what is important to remember: the information is false, but it seems true.
+
+
+Not much to do as of now if you are viewing this repo. 
+Progress has been made terms of data preprocessing however. 
